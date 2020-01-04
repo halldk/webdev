@@ -1,0 +1,130 @@
+body {
+    margin:0;
+    text-align:center;
+    font-family: verdana, sans-serif;
+    font-size: 1rem;
+    
+    
+}
+div{
+    margin:0;
+    padding:25px 0px;
+}
+h1{
+    font-family: 'Yellowtail', cursive;
+    margin: 50px auto 0px auto;
+    font-size:5.625rem;
+    color: #66BFBF;
+}
+h2 {
+    font-size:2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color:#11999E;
+    font-weight:normal;
+
+}
+a{
+    color:#11999E;
+    text-decoration: none;
+    
+}
+a.footer-link{
+    padding:2rem;
+    
+}
+a:hover{
+    color: #eaf6f6;
+}
+p{
+    color: #40514E;
+    line-height:2;
+
+}
+hr{
+    border-style: none; 
+    border-top-style:dotted;
+    width:5%;
+    border-color: #cc6a87;
+    border-width:5px;
+    clear:right;
+}
+div.top{
+    padding-top: 100px;
+    background-color:#eccd8f;
+    position:relative;
+    
+}
+div.middle{
+    background-color: #8d448b;
+    position:relative;
+}
+div.bottom{
+    background-color: #5026a7
+    ;
+    
+
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top: 50px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto;
+    text-align:left;
+    line-height:2;
+}
+
+.repair-img{
+    width:25%;
+    float:left;
+    margin-right:20px;
+}
+
+.programming-img{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+.copyright{
+    color:#EAF6F6;
+    font-size:.75rem;
+    padding: 20px 0px;
+}
+.myButton {
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999b 100%);
+	background-color:#33bdef;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 15px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#019ad2;
+}
+.profile-pic{
+    width:10%;
+}
+.last{
+    padding-bottom:0
+}
